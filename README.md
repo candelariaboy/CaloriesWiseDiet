@@ -1,4 +1,4 @@
-# CaloriesWiseDiet -AI Project 
+# CaloriesWiseDiet -AI Chatbo Project 
 **Members**
 
 Brent Justine P. Barbadillo
